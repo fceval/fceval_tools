@@ -1,0 +1,2 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer
+3,39870,4248638864,mopt-0-exid3,mopt,13076,30661f8fd7e62f361d53b60f160964d60f43197a3646f058b6900d3f5aef08fb,crash,3,heap-buffer-overflow,a26b18e5d3f038233ed0c10a19f2c15a,asan

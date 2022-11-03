@@ -1,0 +1,6 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer
+35,4838,2405700543,afl-0-exid21,afl,4097,e0bada87a86c640a657edf5441b10f4f35c5568f685cbd2705fcee68bef39981,crash,35,SEGV,dc932f8b8003795cf9d4cf9e58604b99,ubsan
+17,4838,2405700543,afl-0-exid21,afl,4097,e0bada87a86c640a657edf5441b10f4f35c5568f685cbd2705fcee68bef39981,crash,17,heap-use-after-free,bf39470c4385d389d7814248ff4d17c1,asan
+16,6709,2405700543,afl-0-exid21,afl,22703,5e76852269d37ca51f6babeb0fdd1c85ed851a5778fe5c7ac6fca0e9a67b54bb,crash,16,heap-use-after-free,9c74ce5d00fb534a6644db103f1bfe0b,asan
+30,6899,2405700543,afl-0-exid21,afl,29765,e3f19059ebe491cbbe46c3a43c021bd4622f095489882a58731d87aa39321fd6,crash,30,SEGV,98b0b019c8fb28351ab32f4e7127bc72,ubsan
+12,6899,2405700543,afl-0-exid21,afl,29765,e3f19059ebe491cbbe46c3a43c021bd4622f095489882a58731d87aa39321fd6,crash,12,heap-use-after-free,097576036382d7d2b774623b1844285b,asan

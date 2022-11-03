@@ -1,0 +1,14 @@
+,Unnamed: 0,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+0,3,35848,3013046124,symcc-0-exid0,symcc,49740,16848f79bbb2c259eb71a32fcd51501b956ed1ae1df3987e30c60696b5354cd3,crash,3,stack-buffer-overflow,d21fa96e57f47e3e0c7025ad97ff3834,asan,fca,libxml2
+1,2,33793,2287416548,mopt-0-exid2,mopt,37509,4f3a6db1806a7e3bfbbc1343f50d7d021994ffdce2bf96ca5286c69783bda880,crash,2,heap-use-after-free,11243d051f2fbe9830a0ea83508df953,asan,fca,libxml2
+2,1,38144,3898146379,fairfuzz-0-exid4,fairfuzz,77560,746dfcfb70551b8964c9497de8aea83014fc28e46ec735979409e084eb1f0cf5,crash,1,stack-buffer-overflow,d21fa96e57f47e3e0c7025ad97ff3834,asan,fca,libxml2
+3,2,31327,2079193095,mopt-0-exid0,mopt,22230,043017bc9188a0a99a406af1fbc360465c8ca8ca2295074b388fe44abb970c2a,crash,2,heap-use-after-free,11243d051f2fbe9830a0ea83508df953,asan,fca,libxml2
+4,1,37117,735223639,fairfuzz-0-exid1,fairfuzz,73642,77c2f56a58581fda74f27c37d0edf0570bc3290a14e5df9b64cb0fcd08ede5c5,crash,1,stack-buffer-overflow,bab24d426dbd9e12a31704e0390fdd5c,asan,fca,libxml2
+5,2,37120,735223639,fairfuzz-0-exid1,fairfuzz,73648,84fac39147e9f05f67838d02f59cf00c3a5853ca1c6dab2049c74920bd59a362,crash,2,stack-buffer-overflow,1f76a2ae4ea2872ae563e79ea116d9aa,asan,fca,libxml2
+6,2,36830,1113043578,fairfuzz-0-exid2,fairfuzz,61841,13da7476002afeb303aadd172c569618d0f39669ca81d653d042bb5e8fd89866,crash,2,stack-buffer-overflow,aee23fea4121dd93d335beb648512696,asan,fca,libxml2
+7,7,36841,1878331870,symcc-0-exid2,symcc,61885,b908a31928943577483b7c929df84c7d092a8a5ab6a972f63664d7f97343e12e,crash,7,stack-buffer-overflow,4864b2f9af26f821280425527998384a,asan,fca,libxml2
+8,4,36238,177315794,mopt-0-exid2,mopt,47844,54c14b4f256d68888850896265902f9779b6a1055b53c3c2db0b8907579f19ec,crash,4,stack-buffer-overflow,3670484304cb7e1667c1cb94b2fe73f0,asan,fca,libxml2
+9,20,36453,177315794,mopt-0-exid2,mopt,49469,0be54c67e45963e494e18be30e3ba43c44d09329441c733ccb71230aafbea59a,crash,20,stack-buffer-overflow,4864b2f9af26f821280425527998384a,asan,fca,libxml2
+10,26,37278,1353724770,fairfuzz-0-exid1,fairfuzz,53790,393b70cf744df188a4540683d752f14c93ce196a22a6a7852552016fcb127bd4,crash,26,stack-buffer-overflow,1f76a2ae4ea2872ae563e79ea116d9aa,asan,fca,libxml2
+11,32,37687,1353724770,fairfuzz-0-exid1,fairfuzz,59620,23218578875ae80b6413e218669ca76a75e2d716761c88cf84c4468f985e082d,crash,32,stack-buffer-overflow,4864b2f9af26f821280425527998384a,asan,fca,libxml2
+12,29,37844,2745704967,mopt-0-exid1,mopt,60775,e858130011c47172783e38a10c1fe0dcfed2fb3ad796930e403cd700ed04b78a,crash,29,stack-buffer-overflow,3670484304cb7e1667c1cb94b2fe73f0,asan,fca,libxml2

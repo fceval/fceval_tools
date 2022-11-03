@@ -1,0 +1,15 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+133,5683,2258830500,fairfuzz-0-exid22,fairfuzz,8226,4ab776751e8584e8454905ca4818f58f7d8e0ced19a0eef8dc620745e083476c,crash,133,heap-use-after-free,9c74ce5d00fb534a6644db103f1bfe0b,asan,fcb,cflow
+209,5685,2258830500,fairfuzz-0-exid22,fairfuzz,8226,07bbfb52f0f771df152c92464614b451f95dea0130b639184b9402deb318133d,crash,209,SEGV,242466f34bd61f7c5b79a168dbd25c63,tsan,fcb,cflow
+88,5685,2258830500,fairfuzz-0-exid22,fairfuzz,8226,07bbfb52f0f771df152c92464614b451f95dea0130b639184b9402deb318133d,crash,88,heap-buffer-overflow,99fad7a3b490f7d3d7fc13b4db848e11,asan,fcb,cflow
+280,6173,2258830500,fairfuzz-0-exid22,fairfuzz,11510,dc0c9604115a5eca251da35951d9210018227f4aa6309f8d9ab6ade882f305ed,crash,280,SEGV,dc932f8b8003795cf9d4cf9e58604b99,ubsan,fcb,cflow
+224,6810,112210547,afl-0-exid22,afl,19587,a3b0865b99241076b8db88930e9c5b2cecb729e04efa5200dd5b2259b580b9c7,crash,224,SEGV,2240f99b7364454196a6e7fac2028d2b,tsan,fcb,cflow
+262,6845,2258830500,fairfuzz-0-exid22,fairfuzz,20481,a99e6e6e8a3fc67f8cfe961c6ac491dbd46b7dac1c806c04454501913c45c5cb,crash,262,SEGV,98b0b019c8fb28351ab32f4e7127bc72,ubsan,fcb,cflow
+27,6845,2258830500,fairfuzz-0-exid22,fairfuzz,20481,a99e6e6e8a3fc67f8cfe961c6ac491dbd46b7dac1c806c04454501913c45c5cb,crash,27,heap-use-after-free,5cb48614635b636e96efbb73c8add63f,asan,fcb,cflow
+85,6850,2258830500,fairfuzz-0-exid22,fairfuzz,20611,221c7ba93a1600ac69b2ba76c0ef6ba71e1b4298932222b0b0dc5cb8d88e2a2f,crash,85,heap-use-after-free,bf39470c4385d389d7814248ff4d17c1,asan,fcb,cflow
+8,7015,2258830500,fairfuzz-0-exid22,fairfuzz,22985,463a8760cb4f2d3bed0397177bb11eb8fa6c10c3e5ade0b2b6779a58244bd6ce,crash,8,heap-use-after-free,097576036382d7d2b774623b1844285b,asan,fcb,cflow
+181,7334,112210547,afl-0-exid22,afl,29506,dc6779a1956c7090fe3283b899be1bcb7c18c82a781e4e772bd15b8267c23e4b,crash,181,SEGV,f62e79ec7a50f4eb81613db7874b05fc,tsan,fcb,cflow
+34,7334,112210547,afl-0-exid22,afl,29506,dc6779a1956c7090fe3283b899be1bcb7c18c82a781e4e772bd15b8267c23e4b,crash,34,heap-buffer-overflow,608e3e385a0175b5249795cd7b6f6e80,asan,fcb,cflow
+147,7356,112210547,afl-0-exid22,afl,30427,934aa5c365e64ffbda1431d2d9b32a009e0e9361994d2935f6061edc4de60cb7,crash,147,heap-buffer-overflow,706f128d1de30d2cf68c05529afb4247,asan,fcb,cflow
+179,7359,112210547,afl-0-exid22,afl,30431,c416bd046658fe4d04c6f804581ad1047176a320d1232ad707432c147490f471,crash,179,SEGV,198f3c3c354aaedb5e33ba83b5b95a7f,tsan,fcb,cflow
+261,7895,112210547,afl-0-exid22,afl,64120,9e9a31c56299eb51e4d1f5a9fb9f3f11632319a8961b698a70cdc2c27cb80ab6,crash,261,SEGV,d41d8cd98f00b204e9800998ecf8427e,ubsan,fcb,cflow

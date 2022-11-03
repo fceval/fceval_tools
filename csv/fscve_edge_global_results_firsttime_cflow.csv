@@ -1,0 +1,3 @@
+,benchmark,fuzzer_combination,max_coverage_global_smaller,first_time
+0,cflow,fcb,181,1024
+1,cflow,fca,181,200

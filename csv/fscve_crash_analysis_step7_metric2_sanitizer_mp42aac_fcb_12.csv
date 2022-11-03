@@ -1,0 +1,5 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+3,2173,776907914,afl-0-exid21,afl,17649,df3239a0a145aacb8751948dcf16beb93ec7df23198c5941f075b956b1eb68e3,crash,3,requested,87ddda0ce59711829e57ff9a2ece7a5e,asan,fcb,mp42aac
+5,2630,776907914,afl-0-exid21,afl,22957,e0e0c6c9582444e67147df92a9f32ea4e34aede487c5b572190e432d78dd4325,crash,5,heap-buffer-overflow,4094935f26dfd9940c6e8ef55aadaaff,asan,fcb,mp42aac
+4,2918,776907914,afl-0-exid21,afl,26776,8663fb0aa2199fcf8c2708babff350e064f479889ec925b49cc02499a37a9500,crash,4,SEGV,d89e5ea71af7c234a501bbc3fbb50212,asan,fcb,mp42aac
+6,2919,776907914,afl-0-exid21,afl,26796,9d7d8e16af2ff1bc75a8514fed6e8f2197bd523fa4993f17590fe4addfd82438,crash,6,heap-buffer-overflow,cf8259252433e737ae31d3e894fde531,asan,fcb,mp42aac

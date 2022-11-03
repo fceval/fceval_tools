@@ -1,0 +1,11 @@
+,crash_id,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+0,1,087664914f7c2d0d3309ea7f88757b6f,asan,fca,libpng
+1,1,75f6dffe3b4d18f4e5c4404ad77242d8,asan,fca,libpng
+2,13,087664914f7c2d0d3309ea7f88757b6f,msan,fca,libpng
+3,3,75f6dffe3b4d18f4e5c4404ad77242d8,msan,fca,libpng
+4,4,314b2ae3f91250c4ec8955f5f6d8d722,tsan,fca,libpng
+5,5,75f6dffe3b4d18f4e5c4404ad77242d8,tsan,fca,libpng
+6,6,087664914f7c2d0d3309ea7f88757b6f,ubsan,fca,libpng
+7,1,087664914f7c2d0d3309ea7f88757b6f,asan,fcb,libpng
+8,3,314b2ae3f91250c4ec8955f5f6d8d722,tsan,fcb,libpng
+9,5,087664914f7c2d0d3309ea7f88757b6f,ubsan,fcb,libpng

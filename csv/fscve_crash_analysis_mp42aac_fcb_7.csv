@@ -1,0 +1,3 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer
+1,973,3660845610,aflplusplus-0-exid21,aflplusplus,1965,810eb6514b9d72cdc980e58b529e637bf5e68ac9c6dd9933b70bd0963504507f,crash,1,requested,87ddda0ce59711829e57ff9a2ece7a5e,asan
+2,3216,3212416642,fairfuzz-0-exid21,fairfuzz,29727,768d9fed76bf344a428aa3d683aaaa930178e2b33d05dc5e4a794912b6061bc2,crash,2,SEGV,9419f91b38edd367d90296ecfee742e2,asan

@@ -1,0 +1,4 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+2,1047,671477241,aflplusplus-0-exid20,aflplusplus,1783,85623709ef104439a564770bae346c5db737cd7d12d6b7bb1e40c6d820642d8b,crash,2,requested,87ddda0ce59711829e57ff9a2ece7a5e,asan,fcb,mp42aac
+3,1985,188820891,fairfuzz-0-exid20,fairfuzz,11373,5d066e4e53e54004b32759a470d962eeae541cf1690d0e2e9eaa3c76425ae17f,crash,3,SEGV,9419f91b38edd367d90296ecfee742e2,asan,fcb,mp42aac
+4,3823,188820891,fairfuzz-0-exid20,fairfuzz,68920,3cd247c2d29624a667e68812b31d24609ffc51cab5fa08b0e2c2ab2ef8cc9cbe,crash,4,allocator,a1b560744ee1ea725f93e162bb5dbfb0,asan,fcb,mp42aac

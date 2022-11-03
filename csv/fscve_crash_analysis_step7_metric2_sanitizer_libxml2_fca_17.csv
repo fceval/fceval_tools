@@ -1,0 +1,4 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+26,37278,1353724770,fairfuzz-0-exid1,fairfuzz,53790,393b70cf744df188a4540683d752f14c93ce196a22a6a7852552016fcb127bd4,crash,26,stack-buffer-overflow,1f76a2ae4ea2872ae563e79ea116d9aa,asan,fca,libxml2
+32,37687,1353724770,fairfuzz-0-exid1,fairfuzz,59620,23218578875ae80b6413e218669ca76a75e2d716761c88cf84c4468f985e082d,crash,32,stack-buffer-overflow,4864b2f9af26f821280425527998384a,asan,fca,libxml2
+29,37844,2745704967,mopt-0-exid1,mopt,60775,e858130011c47172783e38a10c1fe0dcfed2fb3ad796930e403cd700ed04b78a,crash,29,stack-buffer-overflow,3670484304cb7e1667c1cb94b2fe73f0,asan,fca,libxml2

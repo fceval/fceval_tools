@@ -1,0 +1,11 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+1045,2414,3126086224,fairfuzz-0-exid2,fairfuzz,360,736a880ef52e0241f89fa796bcd3748e2ace383d7effc70e94a0fe67a64e46de,crash,1045,SEGV,dc932f8b8003795cf9d4cf9e58604b99,ubsan,fca,cflow
+106,2414,3126086224,fairfuzz-0-exid2,fairfuzz,360,736a880ef52e0241f89fa796bcd3748e2ace383d7effc70e94a0fe67a64e46de,crash,106,heap-use-after-free,9c74ce5d00fb534a6644db103f1bfe0b,asan,fca,cflow
+1073,5020,3126086224,fairfuzz-0-exid2,fairfuzz,2224,02ff6eb87fb8f4de3568a0adc07b549793aa1337fc8d5db18b45a7fd98aae068,crash,1073,SEGV,ba127fb63aa0f674b7835337994a5827,ubsan,fca,cflow
+250,5020,3126086224,fairfuzz-0-exid2,fairfuzz,2224,02ff6eb87fb8f4de3568a0adc07b549793aa1337fc8d5db18b45a7fd98aae068,crash,250,heap-use-after-free,d05f359b27234cc1572a4c4af1b79e43,asan,fca,cflow
+801,6512,502509370,symcc-0-exid2,symcc,5691,b71b3605b12c09855ac13b38540e32bfdc9e1c3cbcd9df8d16db4f5911d37457,crash,801,SEGV,ef18311e55235156d43317cf16f5eb92,tsan,fca,cflow
+283,6512,502509370,symcc-0-exid2,symcc,5691,b71b3605b12c09855ac13b38540e32bfdc9e1c3cbcd9df8d16db4f5911d37457,crash,283,heap-buffer-overflow,99fad7a3b490f7d3d7fc13b4db848e11,asan,fca,cflow
+1024,6513,502509370,symcc-0-exid2,symcc,5691,f979631ed80cfddad47413e9bc9e490d8804d2369c51e1048d869a9fac731a53,crash,1024,SEGV,242466f34bd61f7c5b79a168dbd25c63,tsan,fca,cflow
+620,6582,502509370,symcc-0-exid2,symcc,5921,bc7229303cd93de7b9ecba1d1acd79965bc5b67d12b39cd47e353296fb5e6b05,crash,620,SEGV,2240f99b7364454196a6e7fac2028d2b,tsan,fca,cflow
+1112,6648,502509370,symcc-0-exid2,symcc,5942,94f7e6fde641c748a8b2b93e8753ad3881cdee7568f27fa05e8ee4a278ac54b7,crash,1112,SEGV,b6805236842427b48c7aaccd83dca7b7,ubsan,fca,cflow
+484,8184,3459441912,mopt-0-exid2,mopt,17462,f4ab921c172fc917a8d3673bb8891c78f511a34a19f9954643d678345bc1dd77,crash,484,heap-use-after-free,bf39470c4385d389d7814248ff4d17c1,asan,fca,cflow

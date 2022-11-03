@@ -1,0 +1,5 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer
+6,11593,2829737191,afl-0-exid24,afl,66451,0eaecaf95a427871e93409eff125adea2f419779e1cefbf31e37b7c77c2cc71b,crash,6,stack-overflow,5e542326cbfbab81c654ad4ae382c601,msan
+3,11593,2829737191,afl-0-exid24,afl,66451,0eaecaf95a427871e93409eff125adea2f419779e1cefbf31e37b7c77c2cc71b,crash,3,stack-overflow,a6340aaeb50a0ddb4c6dc0acc75e6918,asan
+12,11593,2829737191,afl-0-exid24,afl,66451,0eaecaf95a427871e93409eff125adea2f419779e1cefbf31e37b7c77c2cc71b,crash,12,stack-overflow,cfe64e8c12ead6d6a7e77d80dd4488a9,ubsan
+2,11972,2829737191,afl-0-exid24,afl,84605,7a3644de366e53b8545622c1c8bd00560b52bb3a2d112b7ace75617f9bb0d378,crash,2,stack-overflow,27b1f62cae8e95d2c7adad2da3be9a9f,asan

@@ -1,0 +1,2 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer
+1,10233,16458044,aflfast-0-exid22,aflfast,85000,5e4b1111dd5a7ceadd3689768aff3caad121e99a4f42e7daed3a8abe89c10ddc,crash,1,global-buffer-overflow,a624478673cfe92eee6663ce2269898f,asan

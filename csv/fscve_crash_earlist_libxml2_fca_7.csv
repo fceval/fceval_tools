@@ -1,0 +1,3 @@
+,crash_id,discovery_time,fuzzer
+1,bug1,1227,fairfuzz-0-exid1
+2,bug2,1227,fairfuzz-0-exid1

@@ -1,0 +1,2 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+1,3319,2409683477,fairfuzz-0-exid0,fairfuzz,69537,df1406e592fa4344da164ccdbdb623ecc52e8692926603020639c3395502aebd,crash,1,allocator,a1b560744ee1ea725f93e162bb5dbfb0,asan,fca,mp42aac

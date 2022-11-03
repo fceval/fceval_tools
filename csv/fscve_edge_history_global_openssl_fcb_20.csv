@@ -1,0 +1,5 @@
+,fuzzer,edges_count,time
+0,fuzzer_global,265,0
+1,fuzzer_global,275,1
+2,fuzzer_global,275,2
+3,fuzzer_global,275,3

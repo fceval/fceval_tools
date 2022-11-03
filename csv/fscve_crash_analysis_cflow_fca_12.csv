@@ -1,0 +1,7 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer
+20,6794,506343310,mopt-0-exid1,mopt,7605,70e379bfcc696fffe4eea3a2416b9bf4510c9e93f9671cf47c08e24d905452df,crash,20,heap-use-after-free,bf39470c4385d389d7814248ff4d17c1,asan
+25,6797,506343310,mopt-0-exid1,mopt,7614,2d24813dec36099bdadf3d82aebefcaa7c02ed073d75caadb491487d3ed4dab2,crash,25,heap-use-after-free,9c74ce5d00fb534a6644db103f1bfe0b,asan
+46,8161,2680945339,symcc-0-exid1,symcc,17735,181824afbda5c31dfc772a0174927745b41d25df1954398ebc06970897580ad4,crash,46,SEGV,dc932f8b8003795cf9d4cf9e58604b99,ubsan
+30,8161,2680945339,symcc-0-exid1,symcc,17735,181824afbda5c31dfc772a0174927745b41d25df1954398ebc06970897580ad4,crash,30,heap-use-after-free,9c74ce5d00fb534a6644db103f1bfe0b,asan
+45,9498,506343310,mopt-0-exid1,mopt,39123,f06f5181d51e5672882a95479a62e415829f5a9d003925d8d8e2bcedd35bab4f,crash,45,SEGV,dc932f8b8003795cf9d4cf9e58604b99,ubsan
+11,10208,2680945339,symcc-0-exid1,symcc,63405,64ada298a1afabfbb195c80d359d2c5b47f929b1499c091e5c3aed100704322b,crash,11,heap-use-after-free,bf39470c4385d389d7814248ff4d17c1,asan

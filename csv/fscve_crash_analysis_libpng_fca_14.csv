@@ -1,0 +1,4 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer
+1,8450,1723271060,symcc-0-exid3,symcc,42280,2738e7f0bb3b5a3960eb04ebb850ab871a60c8d7b19324273f6be4508551d11f,crash,1,SEGV,087664914f7c2d0d3309ea7f88757b6f,asan
+5,8450,1723271060,symcc-0-exid3,symcc,42280,2738e7f0bb3b5a3960eb04ebb850ab871a60c8d7b19324273f6be4508551d11f,crash,5,SEGV,314b2ae3f91250c4ec8955f5f6d8d722,tsan
+2,9429,1723271060,symcc-0-exid3,symcc,69863,ef7763d4114fbdd901b7278a4d9dfc19c134e96620f30a2750c1842ebe6ceeaa,crash,2,FPE,75f6dffe3b4d18f4e5c4404ad77242d8,asan

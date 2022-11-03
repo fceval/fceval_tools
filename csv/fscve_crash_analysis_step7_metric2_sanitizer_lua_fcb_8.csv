@@ -1,0 +1,5 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+2,9005,1331758826,afl-0-exid22,afl,20408,d16a72cb6d541a84b620fae5105d34907ae7656c57144cc8a31a06cfc70a479c,crash,2,stack-overflow,5e542326cbfbab81c654ad4ae382c601,msan,fcb,lua
+3,9005,1331758826,afl-0-exid22,afl,20408,d16a72cb6d541a84b620fae5105d34907ae7656c57144cc8a31a06cfc70a479c,crash,3,stack-overflow,5e542326cbfbab81c654ad4ae382c601,tsan,fcb,lua
+1,9005,1331758826,afl-0-exid22,afl,20408,d16a72cb6d541a84b620fae5105d34907ae7656c57144cc8a31a06cfc70a479c,crash,1,stack-overflow,a6340aaeb50a0ddb4c6dc0acc75e6918,asan,fcb,lua
+4,9005,1331758826,afl-0-exid22,afl,20408,d16a72cb6d541a84b620fae5105d34907ae7656c57144cc8a31a06cfc70a479c,crash,4,stack-overflow,cfe64e8c12ead6d6a7e77d80dd4488a9,ubsan,fcb,lua

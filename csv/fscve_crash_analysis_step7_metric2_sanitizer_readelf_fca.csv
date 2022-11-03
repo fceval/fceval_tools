@@ -1,0 +1,18 @@
+,Unnamed: 0,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+0,4,30096,1731663454,mopt-0-exid2,mopt,5647,232d17700736581f32aa799687d077a4e7f7b6fb0723456ac86b459a7ccd515e,crash,4,heap-buffer-overflow,a26b18e5d3f038233ed0c10a19f2c15a,asan,fca,readelf
+1,1,76998,574216856,mopt-0-exid3,mopt,38202,56765add47a0645fce138974b797cf04e8a06b34fd54a2eb68aaa7d84cf3db4e,crash,1,heap-buffer-overflow,a26b18e5d3f038233ed0c10a19f2c15a,asan,fca,readelf
+2,1,98215,2803158642,mopt-0-exid2,mopt,78520,2c414173cdaad40b261f49015584d6fd88f248a8c8ea5f11ae0a3341a4eb82a3,crash,1,heap-buffer-overflow,3b089a6c0718b7b308a3de6ab5e9a87f,asan,fca,readelf
+3,3,39870,4248638864,mopt-0-exid3,mopt,13076,30661f8fd7e62f361d53b60f160964d60f43197a3646f058b6900d3f5aef08fb,crash,3,heap-buffer-overflow,a26b18e5d3f038233ed0c10a19f2c15a,asan,fca,readelf
+4,7,42644,2391510908,mopt-0-exid1,mopt,9334,fa0a060a403ebb4b798facfac02d3a59ffcdb740b4f2ec772d1e1a20ce6c835e,crash,7,heap-buffer-overflow,0bc550f4a382119e71fef3d6c6761e7c,asan,fca,readelf
+5,6,43525,2391510908,mopt-0-exid1,mopt,9673,a7e4b32e1720a74cebdead055270361d9dd3478a4861bb42d22eca25162a71e5,crash,6,heap-buffer-overflow,a26b18e5d3f038233ed0c10a19f2c15a,asan,fca,readelf
+6,9,79012,2391510908,mopt-0-exid1,mopt,36794,39db98575b21464202ee3a9728a0ab856a6790539821b8cfd2fd582a8abc6681,crash,9,heap-buffer-overflow,3c2c1a3f9d80cef08cad03b1eac7de30,asan,fca,readelf
+7,10,79030,2391510908,mopt-0-exid1,mopt,36813,05822d9a79457f5a77c627660c774dc89f06fce07d74f30fe6086adb01160f79,crash,10,heap-buffer-overflow,a73c019e2128b4d39d53ea1d548b9961,asan,fca,readelf
+8,8,83558,2391510908,mopt-0-exid1,mopt,42586,67e5752c76232d9010638889d77c930fe9a9502f3c03c7f45204d6f2226e02c9,crash,8,heap-buffer-overflow,a58d150d68fd75cdc55677e9b47c7a94,asan,fca,readelf
+9,3,77822,3094014437,mopt-0-exid0,mopt,34354,d0c17e9e3e4f8227fb55041433023ce830bbdc2f4488a903332ff7549b6e0413,crash,3,heap-buffer-overflow,6260528cc16c1b8e69050fe4ce12e502,asan,fca,readelf
+10,6,77859,3094014437,mopt-0-exid0,mopt,34435,7c9ffefa1e5eb9955e6b5c3b5979521c8d0259b3e0f7e327af913cfbb2ee3d90,crash,6,heap-buffer-overflow,a26b18e5d3f038233ed0c10a19f2c15a,asan,fca,readelf
+11,5,77994,3094014437,mopt-0-exid0,mopt,34722,f59d30bb3308d1b31bf020d728086aa96ebee67eb59a014e487117459091de37,crash,5,heap-buffer-overflow,3c2c1a3f9d80cef08cad03b1eac7de30,asan,fca,readelf
+12,8,93891,3094014437,mopt-0-exid0,mopt,77260,2904cfe242415b7f74981b7ce88ca7735aa04af211159f41625402db0550a6e8,crash,8,heap-buffer-overflow,a73c019e2128b4d39d53ea1d548b9961,asan,fca,readelf
+13,2,27375,1631979955,mopt-0-exid1,mopt,5607,9ac81aa2f9650e0912193a3787854aa7b9c5042e7cb0200209cc64b497630e63,crash,2,heap-buffer-overflow,0bc550f4a382119e71fef3d6c6761e7c,asan,fca,readelf
+14,3,80425,1048419713,mopt-0-exid3,mopt,37560,56ae2474ad7a642950601dbe90a70277fc06141f4281345189a56b32fa6e242b,crash,3,heap-buffer-overflow,0bc550f4a382119e71fef3d6c6761e7c,asan,fca,readelf
+15,1,80469,1048419713,mopt-0-exid3,mopt,37673,caa445c3d01bf54e9fbd45587b725df43db3749ccaef94ab3043cadcb7fa0cdd,crash,1,heap-buffer-overflow,a26b18e5d3f038233ed0c10a19f2c15a,asan,fca,readelf
+16,1,30108,520872603,mopt-0-exid4,mopt,4885,9c797225f0dcac62fb9fcdea54f2ccf20143cb2706edbbfa1ffe1433aada3df4,crash,1,heap-buffer-overflow,b790c863136ba950389ba4f26b1155ff,asan,fca,readelf

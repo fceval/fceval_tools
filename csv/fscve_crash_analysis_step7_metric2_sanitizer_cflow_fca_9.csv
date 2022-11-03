@@ -1,0 +1,6 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+2,4534,1577076110,mopt-0-exid3,mopt,1703,838ebf01a6584be6bf5d01131c260106a40916a8c54a8964b79165dd48f81584,crash,2,heap-use-after-free,bf39470c4385d389d7814248ff4d17c1,asan,fca,cflow
+9,6573,1577076110,mopt-0-exid3,mopt,7402,7814171123b3eda98c153c53a78f4fb41cb52e214f4c6ad542a229a7d700aec8,crash,9,heap-buffer-overflow,99fad7a3b490f7d3d7fc13b4db848e11,asan,fca,cflow
+19,6592,1577076110,mopt-0-exid3,mopt,7596,868f3114a7ee1cc2b34bfcebb51024691e72d7066bd7ffb51495e32449e5f348,crash,19,SEGV,242466f34bd61f7c5b79a168dbd25c63,tsan,fca,cflow
+7,10432,1577076110,mopt-0-exid3,mopt,64348,e3cc31bb44b2b43462a7c188209691d2cb9aa81a2dd9c57b0dbb0466cf7722c9,crash,7,heap-use-after-free,9c74ce5d00fb534a6644db103f1bfe0b,asan,fca,cflow
+16,10665,1577076110,mopt-0-exid3,mopt,78216,342112e9966bd3984c6ee032e088a66952b0d130d7500a8d4c061d46dc0d6f43,crash,16,heap-buffer-overflow,333b4b08bdbba43f4ade91fe58aa064e,asan,fca,cflow

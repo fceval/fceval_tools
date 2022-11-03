@@ -1,0 +1,3 @@
+,benchmark,fuzzer_combination,max_coverage_global_smaller,first_time
+0,openssl,fcb,284,1
+1,openssl,fca,284,0

@@ -1,0 +1,4 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+1,6076,87135322,afl-0-exid20,afl,22667,77c34129ba23e030758b12863bc4c8a12dbdfa3bcde4e5b0359fcb632b01e549,crash,1,SEGV,087664914f7c2d0d3309ea7f88757b6f,asan,fcb,libpng
+7,6076,87135322,afl-0-exid20,afl,22667,77c34129ba23e030758b12863bc4c8a12dbdfa3bcde4e5b0359fcb632b01e549,crash,7,SEGV,087664914f7c2d0d3309ea7f88757b6f,ubsan,fcb,libpng
+4,6076,87135322,afl-0-exid20,afl,22667,77c34129ba23e030758b12863bc4c8a12dbdfa3bcde4e5b0359fcb632b01e549,crash,4,SEGV,314b2ae3f91250c4ec8955f5f6d8d722,tsan,fcb,libpng

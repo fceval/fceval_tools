@@ -1,0 +1,15 @@
+,crash_id,discovery_time,fuzzer
+133,bug133,137,fairfuzz-0-exid22
+209,bug209,137,fairfuzz-0-exid22
+88,bug88,137,fairfuzz-0-exid22
+280,bug280,191,fairfuzz-0-exid22
+224,bug224,326,afl-0-exid22
+262,bug262,341,fairfuzz-0-exid22
+27,bug27,341,fairfuzz-0-exid22
+85,bug85,343,fairfuzz-0-exid22
+8,bug8,383,fairfuzz-0-exid22
+181,bug181,491,afl-0-exid22
+34,bug34,491,afl-0-exid22
+147,bug147,507,afl-0-exid22
+179,bug179,507,afl-0-exid22
+261,bug261,1068,afl-0-exid22

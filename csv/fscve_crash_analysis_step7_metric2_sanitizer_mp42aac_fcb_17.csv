@@ -1,0 +1,2 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+1,3300,3150942344,afl-0-exid21,afl,71588,98cd8be501799eb8c19f9d539b17e662fc67d57dee8f2cabf5b39cb384e66505,crash,1,allocator,a1b560744ee1ea725f93e162bb5dbfb0,asan,fcb,mp42aac

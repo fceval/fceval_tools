@@ -1,0 +1,6 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+919,5028,329973316,afl-0-exid23,afl,3505,c7f6085a37c83a1bbd89faf93d594182b6e2070d95541f7c1c8ed89b7e1b66e9,crash,919,SEGV,242466f34bd61f7c5b79a168dbd25c63,tsan,fcb,cflow
+452,5028,329973316,afl-0-exid23,afl,3505,c7f6085a37c83a1bbd89faf93d594182b6e2070d95541f7c1c8ed89b7e1b66e9,crash,452,heap-buffer-overflow,99fad7a3b490f7d3d7fc13b4db848e11,asan,fcb,cflow
+475,5104,329973316,afl-0-exid23,afl,4493,a8228e7e3f9f16f597b280456a0ac1ebcc6eb53dbbf5e706a931e21d5b7bdb91,crash,475,SEGV,2240f99b7364454196a6e7fac2028d2b,tsan,fcb,cflow
+829,7997,2978827983,fairfuzz-0-exid23,fairfuzz,50959,58f9a4638345292868c8d7c0f6152398225eee977397b3ffb9cbaf1c4900fd48,crash,829,SEGV,ef18311e55235156d43317cf16f5eb92,tsan,fcb,cflow
+939,8098,2978827983,fairfuzz-0-exid23,fairfuzz,56373,3e683cfc0f02b5ab7904acf47158b864f0a11c28a7a4aa6d256b4a1dd0bb88b5,crash,939,SEGV,b6805236842427b48c7aaccd83dca7b7,ubsan,fcb,cflow

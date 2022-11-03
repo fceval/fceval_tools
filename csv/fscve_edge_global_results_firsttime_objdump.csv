@@ -1,0 +1,3 @@
+,benchmark,fuzzer_combination,max_coverage_global_smaller,first_time
+0,objdump,fcb,990,1381
+1,objdump,fca,990,1024

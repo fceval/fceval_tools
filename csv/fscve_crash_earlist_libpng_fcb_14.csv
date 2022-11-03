@@ -1,0 +1,3 @@
+,crash_id,discovery_time,fuzzer
+2,bug2,773,afl-0-exid23
+4,bug4,773,afl-0-exid23

@@ -1,0 +1,11 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+10,11232,1136160342,afl-0-exid22,afl,51332,0387339cb8f515ba656a03e20ed059d244bd3e0cd690b870dfd5db29b027e568,crash,10,stack-overflow,27b1f62cae8e95d2c7adad2da3be9a9f,asan,fcb,lua
+20,11232,1136160342,afl-0-exid22,afl,51332,0387339cb8f515ba656a03e20ed059d244bd3e0cd690b870dfd5db29b027e568,crash,20,stack-overflow,5e542326cbfbab81c654ad4ae382c601,msan,fcb,lua
+30,11232,1136160342,afl-0-exid22,afl,51332,0387339cb8f515ba656a03e20ed059d244bd3e0cd690b870dfd5db29b027e568,crash,30,stack-overflow,5e542326cbfbab81c654ad4ae382c601,tsan,fcb,lua
+40,11232,1136160342,afl-0-exid22,afl,51332,0387339cb8f515ba656a03e20ed059d244bd3e0cd690b870dfd5db29b027e568,crash,40,stack-overflow,cfe64e8c12ead6d6a7e77d80dd4488a9,ubsan,fcb,lua
+9,11310,1136160342,afl-0-exid22,afl,52745,3a16404ffb4fd45f9dbbf302b403f13964d0949dd23433fd41aae57f5d9bc47f,crash,9,stack-overflow,5548e2f6523c170094389ec479703fb5,asan,fcb,lua
+8,11499,1136160342,afl-0-exid22,afl,57417,3286948ce4ee74babb01a15ee90e02f0c931366c231049c7111757e1552f8e86,crash,8,stack-overflow,5e542326cbfbab81c654ad4ae382c601,asan,fcb,lua
+5,11789,1136160342,afl-0-exid22,afl,67008,e0bd1d549b8e40fc7acee540cff05218886bcdee603f89f7b8a4aa605705bf7d,crash,5,stack-overflow,29240592ff7f5b635140c9b975245d84,asan,fcb,lua
+15,11789,1136160342,afl-0-exid22,afl,67008,e0bd1d549b8e40fc7acee540cff05218886bcdee603f89f7b8a4aa605705bf7d,crash,15,stack-overflow,bf02ab0860118ad9ed702744f300a45c,msan,fcb,lua
+3,12345,1136160342,afl-0-exid22,afl,83114,35743c56379b1bcd7b570a3bbeb5f0bb759c7742ea31fbcd507da2b78f52085a,crash,3,stack-overflow,a6340aaeb50a0ddb4c6dc0acc75e6918,asan,fcb,lua
+13,12345,1136160342,afl-0-exid22,afl,83114,35743c56379b1bcd7b570a3bbeb5f0bb759c7742ea31fbcd507da2b78f52085a,crash,13,stack-overflow,a6340aaeb50a0ddb4c6dc0acc75e6918,msan,fcb,lua

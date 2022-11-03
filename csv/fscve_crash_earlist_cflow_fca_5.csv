@@ -1,0 +1,8 @@
+,crash_id,discovery_time,fuzzer
+850,bug850,59,mopt-0-exid4
+418,bug418,59,mopt-0-exid4
+314,bug314,157,mopt-0-exid4
+835,bug835,195,symcc-0-exid4
+878,bug878,465,symcc-0-exid4
+337,bug337,465,symcc-0-exid4
+319,bug319,1308,mopt-0-exid4

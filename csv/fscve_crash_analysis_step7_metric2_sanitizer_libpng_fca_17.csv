@@ -1,0 +1,4 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+1,6660,3950187252,symcc-0-exid1,symcc,11587,b1ea16d195761af5390228ffc233a728cabd1dbe6086f2046263a6e9725a1b57,crash,1,FPE,75f6dffe3b4d18f4e5c4404ad77242d8,asan,fca,libpng
+2,6660,3950187252,symcc-0-exid1,symcc,11587,b1ea16d195761af5390228ffc233a728cabd1dbe6086f2046263a6e9725a1b57,crash,2,FPE,75f6dffe3b4d18f4e5c4404ad77242d8,msan,fca,libpng
+3,6660,3950187252,symcc-0-exid1,symcc,11587,b1ea16d195761af5390228ffc233a728cabd1dbe6086f2046263a6e9725a1b57,crash,3,FPE,75f6dffe3b4d18f4e5c4404ad77242d8,tsan,fca,libpng

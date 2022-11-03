@@ -1,0 +1,5 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer
+3,10396,1569348041,afl-0-exid23,afl,56693,f29d74c0903d8c7956768aca07623c511d95e7bef0fa79042d25608724c9db4d,crash,3,stack-overflow,5e542326cbfbab81c654ad4ae382c601,tsan
+2,10396,1569348041,afl-0-exid23,afl,56693,f29d74c0903d8c7956768aca07623c511d95e7bef0fa79042d25608724c9db4d,crash,2,stack-overflow,a4ec900ded63390cd946e1d386fc7cf1,msan
+4,10396,1569348041,afl-0-exid23,afl,56693,f29d74c0903d8c7956768aca07623c511d95e7bef0fa79042d25608724c9db4d,crash,4,stack-overflow,cfe64e8c12ead6d6a7e77d80dd4488a9,ubsan
+1,10396,1569348041,afl-0-exid23,afl,56693,f29d74c0903d8c7956768aca07623c511d95e7bef0fa79042d25608724c9db4d,crash,1,stack-overflow,de3c17b5588478084595932fecff940d,asan

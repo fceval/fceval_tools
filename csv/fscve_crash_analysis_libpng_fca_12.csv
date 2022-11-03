@@ -1,0 +1,2 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer
+1,8771,690071106,symcc-0-exid1,symcc,60704,1e159cab9ae77e8c4e8eaef40954ad817725149b2209230c32e86f98d886aea1,crash,1,FPE,75f6dffe3b4d18f4e5c4404ad77242d8,asan

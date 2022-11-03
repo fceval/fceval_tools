@@ -1,0 +1,4 @@
+,crash_id,discovery_time,fuzzer
+20,bug20,3,mopt-0-exid4
+3,bug3,18,mopt-0-exid4
+7,bug7,267,mopt-0-exid4

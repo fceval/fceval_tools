@@ -1,0 +1,9 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+12,10580,2754750187,afl-0-exid20,afl,36620,f2eb84625220a9681d74e6cc10009390c0dfe67a8ffe3145208299cb4a08dbeb,crash,12,SEGV,4d6691919f8ba7cab2a6acc47a08f99f,msan,fcb,lua
+15,10580,2754750187,afl-0-exid20,afl,36620,f2eb84625220a9681d74e6cc10009390c0dfe67a8ffe3145208299cb4a08dbeb,crash,15,SEGV,4d6691919f8ba7cab2a6acc47a08f99f,tsan,fcb,lua
+7,10580,2754750187,afl-0-exid20,afl,36620,f2eb84625220a9681d74e6cc10009390c0dfe67a8ffe3145208299cb4a08dbeb,crash,7,SEGV,e1c20d504bd2f23ad90478ace07ef2d9,asan,fcb,lua
+8,10861,742496208,fairfuzz-0-exid20,fairfuzz,39182,5b881371ffdc008c35fab0b3ce00a976c161c5e035e8bc24fe2be2ded8fbb8a5,crash,8,heap-use-after-free,5753a5974858eb4e519e9a7b8ad5d7f5,asan,fcb,lua
+16,11344,742496208,fairfuzz-0-exid20,fairfuzz,43159,009756f55ba8a8e44545482d59e7361442293ea7d0e3fcf7cab541e3b40e8489,crash,16,SEGV,c66f6b9b2e449ed0a1adb1f484b79ef4,ubsan,fcb,lua
+10,12942,2754750187,afl-0-exid20,afl,85154,fe7581c6f1e740a58aca699ae2b8ce69c0e2114ea7ca834b94ff206bdd97c40f,crash,10,SEGV,89b37f8d743fe97579c6f6e939d9f2f0,msan,fcb,lua
+13,12942,2754750187,afl-0-exid20,afl,85154,fe7581c6f1e740a58aca699ae2b8ce69c0e2114ea7ca834b94ff206bdd97c40f,crash,13,SEGV,89b37f8d743fe97579c6f6e939d9f2f0,tsan,fcb,lua
+1,12942,2754750187,afl-0-exid20,afl,85154,fe7581c6f1e740a58aca699ae2b8ce69c0e2114ea7ca834b94ff206bdd97c40f,crash,1,SEGV,c286f4ef28c75d8ff7147c42affd4a73,asan,fcb,lua

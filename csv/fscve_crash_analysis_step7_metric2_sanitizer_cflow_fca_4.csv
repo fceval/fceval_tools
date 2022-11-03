@@ -1,0 +1,10 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+14,4810,1699835703,mopt-0-exid3,mopt,1697,327b4b293a4d2e59f2704816c1691d3c3c9d3f945abc6b181d70351164e54e06,crash,14,heap-use-after-free,9c74ce5d00fb534a6644db103f1bfe0b,asan,fca,cflow
+633,6261,3009536703,symcc-0-exid3,symcc,4276,135ba591b4c5a4b6da69899cc7fd05c55428c629f58199d7b224cf50a234ea20,crash,633,SEGV,dc932f8b8003795cf9d4cf9e58604b99,ubsan,fca,cflow
+325,7372,1699835703,mopt-0-exid3,mopt,12772,ccd22b982c76334d14d206395543fcd02a4e909ba9b9a3ed1eb62d9f7201ba45,crash,325,heap-use-after-free,bf39470c4385d389d7814248ff4d17c1,asan,fca,cflow
+626,9786,3009536703,symcc-0-exid3,symcc,51666,f94d94047de43898f2c5edc14330c5f22a203070811b20ca799a2aadc16ad57c,crash,626,SEGV,ba127fb63aa0f674b7835337994a5827,ubsan,fca,cflow
+119,9786,3009536703,symcc-0-exid3,symcc,51666,f94d94047de43898f2c5edc14330c5f22a203070811b20ca799a2aadc16ad57c,crash,119,heap-use-after-free,c35e68ad11ee23588788f0dd3a2c0d73,asan,fca,cflow
+518,10298,1699835703,mopt-0-exid3,mopt,69003,cea9193a4cbf931538e69ab219965db488867121538d239f13bc36e860a2d6e3,crash,518,SEGV,242466f34bd61f7c5b79a168dbd25c63,tsan,fca,cflow
+179,10298,1699835703,mopt-0-exid3,mopt,69003,cea9193a4cbf931538e69ab219965db488867121538d239f13bc36e860a2d6e3,crash,179,heap-buffer-overflow,99fad7a3b490f7d3d7fc13b4db848e11,asan,fca,cflow
+577,10448,3009536703,symcc-0-exid3,symcc,70850,86648a9736f755c20da86044b0638d19e8322bc34639a4496db638ff2bd301d1,crash,577,SEGV,ef18311e55235156d43317cf16f5eb92,tsan,fca,cflow
+635,10615,2489503249,fairfuzz-0-exid3,fairfuzz,73181,7c7b4247e79e6dfdd63804f90d6efc55e58c6a44378e46d54e7cb8e5fb9b8d22,crash,635,SEGV,b6805236842427b48c7aaccd83dca7b7,ubsan,fca,cflow

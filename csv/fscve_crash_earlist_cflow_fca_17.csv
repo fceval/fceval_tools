@@ -1,0 +1,9 @@
+,crash_id,discovery_time,fuzzer
+74,bug74,13,mopt-0-exid1
+594,bug594,56,fairfuzz-0-exid1
+119,bug119,215,symcc-0-exid1
+94,bug94,222,mopt-0-exid1
+547,bug547,247,mopt-0-exid1
+573,bug573,397,symcc-0-exid1
+374,bug374,567,symcc-0-exid1
+593,bug593,586,symcc-0-exid1

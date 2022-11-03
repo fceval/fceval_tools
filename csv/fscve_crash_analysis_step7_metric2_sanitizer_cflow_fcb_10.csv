@@ -1,0 +1,7 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+10,6146,1900851205,fairfuzz-0-exid24,fairfuzz,14005,5c23b5591c5ca85dd3e4038549dd7a11bc4c17446033bf0cefea3d3d6fa9a989,crash,10,heap-buffer-overflow,99fad7a3b490f7d3d7fc13b4db848e11,asan,fcb,cflow
+113,6294,1900851205,fairfuzz-0-exid24,fairfuzz,19580,f7624a48a6d2df6dc371d78374d134f457e3b578b46eb36aba6664df752c39c2,crash,113,SEGV,242466f34bd61f7c5b79a168dbd25c63,tsan,fcb,cflow
+169,6409,3729085191,afl-0-exid24,afl,23604,7e8ca7bab949c2877e7a2e81567942aa78b404e3f36d9a1a5004e62f8cfece70,crash,169,SEGV,dc932f8b8003795cf9d4cf9e58604b99,ubsan,fcb,cflow
+76,6409,3729085191,afl-0-exid24,afl,23604,7e8ca7bab949c2877e7a2e81567942aa78b404e3f36d9a1a5004e62f8cfece70,crash,76,heap-use-after-free,bf39470c4385d389d7814248ff4d17c1,asan,fcb,cflow
+141,6732,1900851205,fairfuzz-0-exid24,fairfuzz,28060,cbcab65d9c4140b98993d932a360792259e8da60a3f31e7c506e01193f7e7cd0,crash,141,SEGV,ef18311e55235156d43317cf16f5eb92,tsan,fcb,cflow
+146,8044,3729085191,afl-0-exid24,afl,74960,4889888cd8fa564334be8dc9a7c27fe855ea8d3f5e1a8ebd1576264138c5cd13,crash,146,SEGV,2240f99b7364454196a6e7fac2028d2b,tsan,fcb,cflow

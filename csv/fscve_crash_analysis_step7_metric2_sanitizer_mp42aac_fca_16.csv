@@ -1,0 +1,6 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+8,1299,3386412524,aflplusplus-0-exid0,aflplusplus,1779,bac455563a84cab1f6bf668394c807dd969296d7428c7933f5c8bde944c7afb6,crash,8,requested,87ddda0ce59711829e57ff9a2ece7a5e,asan,fca,mp42aac
+6,3881,3876611572,mopt-0-exid0,mopt,21013,d22f5283b81c1306037034741c9c6b0a5a2282e427a0e179c71dfc24a487d23f,crash,6,heap-buffer-overflow,f2e26da42876d7fdc72ff5e32c975ab7,asan,fca,mp42aac
+9,4853,2232028374,symcc-0-exid0,symcc,43946,ac766901807421931fe66bd3a7b284eed97fc1cbe76b8501a40b5ef8aea086cb,crash,9,SEGV,d89e5ea71af7c234a501bbc3fbb50212,asan,fca,mp42aac
+5,4954,3876611572,mopt-0-exid0,mopt,44593,ce914c147e15103a2dd6bc84cf5b69391b3a5c9cd680e4d9522155e3d6748523,crash,5,heap-buffer-overflow,cf8259252433e737ae31d3e894fde531,asan,fca,mp42aac
+4,5766,2232028374,symcc-0-exid0,symcc,85238,e9989a1eebcdfa8febb7ada1e69f9756ea8c524414c329922dc8f28919cbe6d4,crash,4,heap-buffer-overflow,592fca583cd3464b1dd6edc98ed7cca7,asan,fca,mp42aac

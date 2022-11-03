@@ -1,0 +1,9 @@
+,crash_id,discovery_time,fuzzer
+890,bug890,6,fairfuzz-0-exid22
+240,bug240,6,fairfuzz-0-exid22
+278,bug278,59,aflfast-0-exid22
+300,bug300,78,afl-0-exid22
+658,bug658,78,afl-0-exid22
+829,bug829,100,fairfuzz-0-exid22
+907,bug907,247,afl-0-exid22
+713,bug713,431,afl-0-exid22

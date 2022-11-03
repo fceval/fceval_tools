@@ -1,0 +1,3 @@
+,benchmark,fuzzer_combination,experiment_id_1,experiment_id_2,experiment_id_3,experiment_id_4,experiment_id_5,experiment_id_6,experiment_id_7,experiment_id_8,experiment_id_9,experiment_id_10,experiment_id_11,experiment_id_12,experiment_id_13,experiment_id_14,experiment_id_15,experiment_id_16,experiment_id_17,experiment_id_18,experiment_id_19,experiment_id_20,max,avg
+0,readelf,fca,2790,2772,2433,2636,2814,2807,2652,2828,2525,2587,2702,2872,2698,2616,2637,2734,2748,2540,2674,2673,2872,2686
+1,readelf,fcb,2692,2535,2262,2588,2783,2501,2470,2623,2365,2279,2509,2653,2540,2889,2562,2455,1829,2413,2501,2241,2889,2484

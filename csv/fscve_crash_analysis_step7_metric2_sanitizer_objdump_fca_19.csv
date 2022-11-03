@@ -1,0 +1,2 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+1,4441,376973075,mopt-0-exid3,mopt,4761,cf420028d5e914ea4a88ddad233433d2e762df1cdc2988aad24ce0eb38719434,crash,1,heap-buffer-overflow,8c74227eed4bf13418aa08e7cfce2860,asan,fca,objdump

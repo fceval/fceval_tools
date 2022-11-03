@@ -1,0 +1,4 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+1,2688,3381806083,fairfuzz-0-exid22,fairfuzz,44126,6fff844d651fe90bbc77add86ae4fd6269e459be422d8bd770efdf358f6e5dfe,crash,1,requested,87ddda0ce59711829e57ff9a2ece7a5e,asan,fcb,mp42aac
+7,3066,3966326985,afl-0-exid22,afl,64904,4158d1ef8d9cddd667f779feaa43823396280fd1e04fd2f62511ae80d190da40,crash,7,SEGV,d89e5ea71af7c234a501bbc3fbb50212,asan,fcb,mp42aac
+2,3077,3966326985,afl-0-exid22,afl,64987,495e675170fc7f5db737f6acc6b2fd09019902dd92cf8a39020365567c141b9a,crash,2,heap-buffer-overflow,cf8259252433e737ae31d3e894fde531,asan,fcb,mp42aac

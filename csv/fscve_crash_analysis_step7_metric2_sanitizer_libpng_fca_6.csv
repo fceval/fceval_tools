@@ -1,0 +1,7 @@
+,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+1,5607,369370524,aflplusplus-0-exid0,aflplusplus,7424,b22160cbf79ad45303cf56fca3a871e39b83037edae8dd1d60479c6cdb80e1f5,crash,1,SEGV,087664914f7c2d0d3309ea7f88757b6f,asan,fca,libpng
+6,5607,369370524,aflplusplus-0-exid0,aflplusplus,7424,b22160cbf79ad45303cf56fca3a871e39b83037edae8dd1d60479c6cdb80e1f5,crash,6,SEGV,087664914f7c2d0d3309ea7f88757b6f,ubsan,fca,libpng
+4,5607,369370524,aflplusplus-0-exid0,aflplusplus,7424,b22160cbf79ad45303cf56fca3a871e39b83037edae8dd1d60479c6cdb80e1f5,crash,4,SEGV,314b2ae3f91250c4ec8955f5f6d8d722,tsan,fca,libpng
+2,7761,985628209,symcc-0-exid0,symcc,26695,7f2c11eaaac946816afdf543ecc3c31d60946b533dee36c820b7b78e5776f6b9,crash,2,FPE,75f6dffe3b4d18f4e5c4404ad77242d8,asan,fca,libpng
+3,7761,985628209,symcc-0-exid0,symcc,26695,7f2c11eaaac946816afdf543ecc3c31d60946b533dee36c820b7b78e5776f6b9,crash,3,FPE,75f6dffe3b4d18f4e5c4404ad77242d8,msan,fca,libpng
+5,7761,985628209,symcc-0-exid0,symcc,26695,7f2c11eaaac946816afdf543ecc3c31d60946b533dee36c820b7b78e5776f6b9,crash,5,FPE,75f6dffe3b4d18f4e5c4404ad77242d8,tsan,fca,libpng

@@ -1,0 +1,10 @@
+,Unnamed: 0,discovery_id,discovery_fuzzer,discovery_fuzzer_name,fuzzer_type_description,discovery_time,testcase_hash,testcase_type_description,crash_id,crash_type,crash_frames_hash,sanitizer,fuzzer_combination,benchmark
+0,1,10233,16458044,aflfast-0-exid22,aflfast,85000,5e4b1111dd5a7ceadd3689768aff3caad121e99a4f42e7daed3a8abe89c10ddc,crash,1,global-buffer-overflow,a624478673cfe92eee6663ce2269898f,asan,fcb,objdump
+1,2,10795,1448656842,fairfuzz-0-exid24,fairfuzz,55911,e5ae8f6d5f728250a8ada165157f9c6a4bdc438458d3d0dc220964e7e8f0cf3b,crash,2,SEGV,9f9bd9c143ac6d6990f2943468ea5d80,asan,fcb,objdump
+2,4,10795,1448656842,fairfuzz-0-exid24,fairfuzz,55911,e5ae8f6d5f728250a8ada165157f9c6a4bdc438458d3d0dc220964e7e8f0cf3b,crash,4,SEGV,9f9bd9c143ac6d6990f2943468ea5d80,msan,fcb,objdump
+3,8,10795,1448656842,fairfuzz-0-exid24,fairfuzz,55911,e5ae8f6d5f728250a8ada165157f9c6a4bdc438458d3d0dc220964e7e8f0cf3b,crash,8,SEGV,9f9bd9c143ac6d6990f2943468ea5d80,ubsan,fcb,objdump
+4,6,10795,1448656842,fairfuzz-0-exid24,fairfuzz,55911,e5ae8f6d5f728250a8ada165157f9c6a4bdc438458d3d0dc220964e7e8f0cf3b,crash,6,SEGV,da8aa8e5018c941dffcbb6ce3b5de7ae,tsan,fcb,objdump
+5,3,11454,3023774638,fairfuzz-0-exid23,fairfuzz,83234,4ca95d2d2f714717752c312b44766eb101f4be0e8a7c64a8aad1b8c85f250fc5,crash,3,SEGV,9f9bd9c143ac6d6990f2943468ea5d80,asan,fcb,objdump
+6,6,11454,3023774638,fairfuzz-0-exid23,fairfuzz,83234,4ca95d2d2f714717752c312b44766eb101f4be0e8a7c64a8aad1b8c85f250fc5,crash,6,SEGV,9f9bd9c143ac6d6990f2943468ea5d80,msan,fcb,objdump
+7,12,11454,3023774638,fairfuzz-0-exid23,fairfuzz,83234,4ca95d2d2f714717752c312b44766eb101f4be0e8a7c64a8aad1b8c85f250fc5,crash,12,SEGV,9f9bd9c143ac6d6990f2943468ea5d80,ubsan,fcb,objdump
+8,9,11454,3023774638,fairfuzz-0-exid23,fairfuzz,83234,4ca95d2d2f714717752c312b44766eb101f4be0e8a7c64a8aad1b8c85f250fc5,crash,9,SEGV,da8aa8e5018c941dffcbb6ce3b5de7ae,tsan,fcb,objdump
