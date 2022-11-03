@@ -1,2 +1,1 @@
-# fceval_tools
-fceval tools
+**ResultAnalyzer**: just execute **fscve_step_all.sh** and wait for about 8 hours(16-core Intel(R) Xeon(R) CPU E5-2630 v3@2.40GHz , 128GB RAM, Ubuntu 20.04 LTS , llvm_symbolizer-9), all of the data for evaluation would be stored in the csv folders. Then you could use python scripts , Origin and other your familiar tools to draw images and analysize further for more informaton. The additional resources are linked to [benchmarks and runinfosqlites](https://drive.google.com/drive/folders/1GW1VW60u_4t5BkZzXUrdVOG5Nhz0qajb?usp=sharing). Download and put them in the corresponding folders.
