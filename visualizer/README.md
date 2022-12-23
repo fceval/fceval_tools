@@ -3,4 +3,4 @@
 
 2, to visulaize the fuzzing states of base fuzzers , we plant this function from AFL++ and need to modify the source codes of them.  See fceval_main/docker/system/afl-2.56b.tar.gz or aflplusplus_3.11c.tar.gz
 
-3,we could see the above information on the Webpage on the fly.
+3,we could see the above information on the Webpage on the fly as shown in the example images in this folder.  Grafana url is  localhost:3000 . Prometheus url is localhost:9090 .
